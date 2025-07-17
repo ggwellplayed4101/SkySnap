@@ -38,7 +38,7 @@ My chosen API for this project is Open-Meteo API.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://github.com/ggwellplayed4101/SkySnap/blob/main/app/assests/SkyNap.gif" title="SkySnap Demo" alt="Video Demo" width="600" />
+<img src="https://github.com/ggwellplayed4101/SkySnap/blob/main/app/assests/SkyNap.gif" title="SkySnap Demo" alt="Video Demo" width="400" />
 
 
 GIF created with ScreenToGif
